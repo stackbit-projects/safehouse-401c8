@@ -15,7 +15,7 @@ export default class Header extends React.Component {
                     <p className="site-logo">
                         <Link to={withPrefix('/')}>
                             <img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null))} alt={_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img_alt', null)} />
-                            <span>Safehouse</span>
+                            <span>Safehouse.agency</span>
                         </Link></p>
                     )}
                     {((_.get(this.props, 'pageContext.frontmatter.template', null) === 'landing') || (_.get(this.props, 'pageContext.frontmatter.template', null) === 'blog')) ? (
