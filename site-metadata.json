@@ -24,7 +24,7 @@
             {
                 "label": "Контакти",
                 "url": "/signup",
-                "style": "primary"
+                "style": "secondary"
             }
         ]
     },
