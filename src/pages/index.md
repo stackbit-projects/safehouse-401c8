@@ -17,7 +17,7 @@ sections:
     background: gray
     title: Ми надаємо широкий спектр послуг
     features:
-      - title: Електромонтаж квартир та будинків
+      - title: 'Електромонтаж кварти, будинків, магазинів та офісів'
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >
