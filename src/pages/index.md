@@ -67,7 +67,7 @@ sections:
         actions: []
         type: feature_item
         image: images/10_thumb.jpg
-      - title: lorem-ipsum
+      - title: Інсталяція систем відеонагляду
         content: >-
           ## Lorem ipsum
 
