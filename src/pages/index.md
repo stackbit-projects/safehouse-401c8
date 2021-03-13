@@ -75,7 +75,7 @@ sections:
         actions: []
         type: feature_item
         image: images/7_thumb.jpg
-      - title: lorem-ipsum
+      - title: Охоронна сигналізація
         content: >-
           ## Lorem ipsum
 
