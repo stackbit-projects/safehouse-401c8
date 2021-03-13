@@ -30,7 +30,7 @@ sections:
           оселі, нададуть кваліфіковану консультацію та допоможуть обрати якісні
           матеріали.
         actions:
-          - label: Learn More
+          - label: Дізнатися більше
             url: /features
             style: secondary
             has_icon: true
