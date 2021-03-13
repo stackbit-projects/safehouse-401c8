@@ -59,7 +59,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: lorem-ipsum
+      - title: Монтаж електричної теплої підлоги
         content: >
           ## Lorem ipsum
 
