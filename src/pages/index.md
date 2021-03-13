@@ -17,7 +17,7 @@ sections:
     background: gray
     title: Ми надаємо широкий спектр послуг
     features:
-      - title: The Best Feature of Your Services
+      - title: Електромонтаж квартир та будинків
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
