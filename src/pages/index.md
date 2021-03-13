@@ -69,6 +69,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
+        image: images/10_thumb.jpg
   - section_id: reviews
     type: section_reviews
     background: white
