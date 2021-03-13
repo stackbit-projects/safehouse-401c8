@@ -82,7 +82,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-      - title: lorem-ipsum
+      - title: Підряд пожежної сигналізації
         content: >-
           ## Lorem ipsum
 
