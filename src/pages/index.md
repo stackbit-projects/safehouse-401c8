@@ -61,9 +61,6 @@ sections:
             icon_position: right
       - title: Монтаж електричної теплої підлоги
         content: >
-          ## Lorem ipsum
-
-
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         image_alt: lorem-ipsum
