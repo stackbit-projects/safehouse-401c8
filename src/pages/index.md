@@ -20,10 +20,15 @@ sections:
       - title: Електромонтаж квартир та будинків
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          Компанія Safe House інсталює системи відеоспостереження та
+          електромонтажні роботи у квартирах, будинках, котеджах, офісах,
+          готелях, виробничих приміщеннях тощо. Ми маємо багаторічний досвід
+          виконання різної складності електромонтажних робіт, встановлення і
+          налагодження сигналізації та відеонагляду. У нашій команді працюють
+          найкращі спеціалісти ,які проведуть якісний електромонтаж у Вашій
+          оселі, нададуть кваліфіковану консультацію та допоможуть обрати якісні
+          матеріали.
         actions:
           - label: Learn More
             url: /features
