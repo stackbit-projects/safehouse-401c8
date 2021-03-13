@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Послуги
+    title: Ми надаємо широкий спектр послуг
     subtitle: 'Ми надаємо широкий спектр послуг:'
     features:
       - title: The Best Feature of Your Services
