@@ -36,20 +36,6 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Електромонтаж магазинів та офісів
-        image: images/feature2.png
-        image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
       - title: Прокладання кабельних та повітряних ліній
         image: images/feature3.png
         image_alt: App user profile preview
