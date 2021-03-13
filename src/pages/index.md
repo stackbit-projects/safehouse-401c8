@@ -9,7 +9,7 @@ sections:
     content: |
       Більше ніж просто безпека!
     actions:
-      - label: Learn More
+      - label: Дізнатись більше
         url: /features
         style: primary
   - section_id: features
