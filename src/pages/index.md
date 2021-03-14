@@ -18,7 +18,7 @@ sections:
     title: Ми надаємо широкий спектр послуг
     features:
       - title: 'Електромонтаж кварти, будинків, магазинів та офісів'
-        image: images/feature1.png
+        image: images/bermuda-740.png
         image_alt: App preview on a phone and tablet
         content: >
           Компанія Safe House інсталює системи відеоспостереження та
