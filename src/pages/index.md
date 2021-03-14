@@ -50,7 +50,7 @@ sections:
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
-        image: images/7_thumb.jpg
+        image: images/clip-1383.png
       - title: Прокладання кабельних та повітряних ліній
         image: images/feature3.png
         image_alt: App user profile preview
