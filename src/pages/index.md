@@ -15,7 +15,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Ми надаємо широкий спектр послуг
+    title: 'Ми надаємо широкий спектр послуг:'
     features:
       - title: 'Електромонтаж квартир, будинків, магазинів та офісів'
         image: images/bermuda-740.png
