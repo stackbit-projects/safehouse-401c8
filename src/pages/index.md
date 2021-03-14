@@ -52,7 +52,7 @@ sections:
         type: feature_item
         image: images/clip-1383.png
       - title: Прокладання кабельних та повітряних ліній
-        image: images/feature3.png
+        image: images/pablo-no-connection.png
         image_alt: App user profile preview
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
