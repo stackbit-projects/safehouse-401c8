@@ -11,10 +11,7 @@ sections:
       охоронної і пожежної сигналізації та відеонагляду, монтуємо електричну
       теплу підлогу, блискавозахист, заземлення в квартирах, котеджах,
       особняках, офісах, ресторанах тощо.
-    actions:
-      - label: Дізнатись більше
-        url: /features
-        style: primary
+    actions: []
   - section_id: features
     type: section_features
     background: gray
