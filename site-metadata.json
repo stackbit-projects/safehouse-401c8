@@ -33,7 +33,7 @@
         "sections": [
             {
                 "type": "footer_text",
-                "image": "images/logo-alt.svg",
+                "image": "images/logo.png",
                 "image_url": "/",
                 "image_alt": "Footer logo",
                 "content": "Safehouse\n"
