@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/cherry-671.png
     image_alt: App preview
-    title: Safehouse
+    title: Safe House
     content: |
       Більше ніж просто безпека!
     actions:
