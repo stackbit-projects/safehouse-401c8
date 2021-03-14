@@ -52,13 +52,7 @@ sections:
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
-        actions:
-          - label: Learn More
-            url: /features
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
       - title: Монтаж електричної теплої підлоги
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
