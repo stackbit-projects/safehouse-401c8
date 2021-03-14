@@ -46,11 +46,6 @@
                         "label": "Про нас",
                         "url": "/about",
                         "style": "link"
-                    },
-                    {
-                        "label": "Contact",
-                        "url": "/contact",
-                        "style": "link"
                     }
                 ]
             },
