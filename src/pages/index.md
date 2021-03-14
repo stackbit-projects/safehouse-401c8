@@ -17,7 +17,7 @@ sections:
     background: gray
     title: Ми надаємо широкий спектр послуг
     features:
-      - title: 'Електромонтаж кварти, будинків, магазинів та офісів'
+      - title: 'Електромонтаж квартир, будинків, магазинів та офісів'
         image: images/bermuda-740.png
         image_alt: App preview on a phone and tablet
         content: >
