@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/hero.png
+    image: images/cherry-671.png
     image_alt: App preview
     title: Safehouse
     content: |
