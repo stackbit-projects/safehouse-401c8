@@ -53,14 +53,6 @@ sections:
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
         actions: []
-      - title: Монтаж електричної теплої підлоги
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
-        image: images/10_thumb.jpg
       - title: Охоронна сигналізація
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
