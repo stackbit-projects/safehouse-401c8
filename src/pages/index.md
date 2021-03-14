@@ -36,6 +36,14 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
+      - title: Інсталяція систем відеонагляду
+        content: >
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        image_alt: lorem-ipsum
+        actions: []
+        type: feature_item
+        image: images/7_thumb.jpg
       - title: Прокладання кабельних та повітряних ліній
         image: images/feature3.png
         image_alt: App user profile preview
@@ -58,14 +66,6 @@ sections:
         actions: []
         type: feature_item
         image: images/10_thumb.jpg
-      - title: Інсталяція систем відеонагляду
-        content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-        image_alt: lorem-ipsum
-        actions: []
-        type: feature_item
-        image: images/7_thumb.jpg
       - title: Охоронна сигналізація
         content: >
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
