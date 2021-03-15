@@ -78,7 +78,7 @@ sections:
         type: feature_item
         image: images/flamenco-lightning.png
 seo:
-  title: Stackbit Azimuth Theme
+  title: 'Safe House - '
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
