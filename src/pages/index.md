@@ -106,7 +106,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Azimuth Theme
+      value: Відеонагляд Львів | Встановлення систем відеоспостереження
     - name: 'twitter:description'
       value: >-
         Встановлюємо системи охоронної і пожежної сигналізації та відеонагляду,
