@@ -102,7 +102,7 @@ seo:
         теплу підлогу тощо.
       keyName: property
     - name: 'og:image'
-      value: images/hero.png
+      value: /images/Screenshot%202021-03-16%20at%2000.22.58.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
