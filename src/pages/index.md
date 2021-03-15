@@ -12,7 +12,7 @@ sections:
       теплу підлогу, блискавозахист, заземлення в квартирах, котеджах,
       особняках, офісах, ресторанах тощо.
     actions:
-      - label: lorem-ipsum
+      - label: Контакти
         url: '#'
         style: link
         has_icon: false
