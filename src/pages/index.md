@@ -91,9 +91,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: >-
-        Safe House - електромонтажна компанія, яка проводить свою діяльність на
-        ринку Західної України.
+      value: 'Safe House - електромонтажна компанія, яка '
       keyName: property
     - name: 'og:description'
       value: >-
