@@ -76,5 +76,6 @@
         "content": "&copy; Safehouse.agency. All rights reserved."
     },
     "title": "Safe House",
-    "domain": "https://safehouse.agency"
+    "domain": "https://safehouse.agency",
+    "favicon": "images/android-icon-36x36.png"
 }
