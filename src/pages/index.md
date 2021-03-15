@@ -91,7 +91,9 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Відеонагляд Львів | Встановлення систем сигналізації | Safe House
+      value: >-
+        Відеонагляд Львів | Встановлення систем відеоспостереження і
+        сигналізації
       keyName: property
     - name: 'og:description'
       value: >-
