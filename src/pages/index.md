@@ -85,8 +85,15 @@ sections:
         image: images/bermuda-budget-worries.png
       - title: Блискавко захист
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Блискавкозахист** — сукупність заходів і технічних засобів для
+          охорони будівель, споруд, обладнання та електричних пристроїв від дії
+          блискавки.
+
+
+          Заходи з блискавкозахисту поділяються на зовнішню та внутрішню систему
+          заходів. Зовнішня система заходів захищає об'єкт від прямих ударів
+          блискавки (ПУБ). Внутрішня система заходів захищає чутливе
+          електрообладнання об'єкта від вторинних проявів блискавки.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
