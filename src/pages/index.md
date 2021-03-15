@@ -78,7 +78,9 @@ sections:
         type: feature_item
         image: images/flamenco-lightning.png
 seo:
-  title: 'Safe House - '
+  title: >-
+    Safe House - електромонтажна компанія, яка проводить свою діяльність на
+    ринку  Західної України.
   description: The preview of the Azimuth theme
   extra:
     - name: 'og:type'
