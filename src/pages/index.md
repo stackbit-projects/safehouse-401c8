@@ -13,7 +13,7 @@ sections:
       особняках, офісах, ресторанах тощо.
     actions:
       - label: Контакти
-        url: '#'
+        url: '#contacts'
         style: link
         has_icon: false
         icon: arrow-left
