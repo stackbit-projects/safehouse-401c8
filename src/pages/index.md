@@ -91,7 +91,9 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Azimuth Theme
+      value: >-
+        Safe House - електромонтажна компанія, яка проводить свою діяльність на
+        ринку Західної України.
       keyName: property
     - name: 'og:description'
       value: The preview of the Azimuth theme
