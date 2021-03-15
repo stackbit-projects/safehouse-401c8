@@ -108,7 +108,10 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Azimuth Theme
     - name: 'twitter:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        Встановлюємо системи охоронної і пожежної сигналізації та відеонагляду,
+        монтуємо електричну теплу підлогу, блискавозахист, заземлення в
+        квартирах, котеджах тощо
     - name: 'twitter:image'
       value: /images/safehouse.png
       relativeUrl: true
