@@ -40,17 +40,6 @@
             },
             {
                 "type": "footer_nav",
-                "title": "Компанія",
-                "nav_links": [
-                    {
-                        "label": "Про нас",
-                        "url": "/about",
-                        "style": "link"
-                    }
-                ]
-            },
-            {
-                "type": "footer_nav",
                 "title": "Контакти",
                 "nav_links": [
                     {
