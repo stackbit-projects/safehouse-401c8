@@ -63,8 +63,10 @@ sections:
         actions: []
       - title: Охоронна сигналізація
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Охоронна сигналізація** – це електронний пристрій, який дозволить
+          Вам завжди бути упевненим в безпеці Вашого будинку, офісу, квартири,
+          складу, виробничого приміщення і т. д. Охоронна сигналізація
+          розрахована на попередження несанкціонованого доступу в приміщення.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
