@@ -96,7 +96,10 @@ seo:
         ринку Західної України.
       keyName: property
     - name: 'og:description'
-      value: The preview of the Azimuth theme
+      value: >-
+        Виконуємо роботи по влаштуванню електричних мереж, встановлюємо системи
+        охоронної і пожежної сигналізації та відеонагляду, монтуємо електричну
+        теплу підлогу тощо.
       keyName: property
     - name: 'og:image'
       value: images/hero.png
