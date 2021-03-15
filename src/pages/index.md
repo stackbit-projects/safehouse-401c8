@@ -73,8 +73,12 @@ sections:
         image: images/eastwood-237.png
       - title: Пожежна сигналізації
         content: >
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          **Пожежна сигналізація** — це система автоматичних пристроїв виявлення
+          вогню, чадного газу та диму у приміщенні. Сповіщувачі виявляють
+          займання та миттєво передають сигнал на централь (ППКП), яка вже
+          повідомляє пульт пожежної служби. При пожежі активується система
+          управління евакуацією людей на об’єкті. Всі пристрої повинні бути
+          ліцензованими та підключені згідно вимог.
         image_alt: lorem-ipsum
         actions: []
         type: feature_item
