@@ -56,10 +56,10 @@ sections:
       - title: Прокладання кабельних та повітряних ліній
         image: images/pablo-no-connection.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          Надаємо послуги з прокладання кабельних ліній електропередач, ремонтні
+          роботи. Прокладка кабелю в землі, підключення кабельних ліній,
+          прокладання кабелю.
         actions: []
       - title: Охоронна сигналізація
         content: >
