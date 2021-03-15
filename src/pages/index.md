@@ -91,9 +91,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: >-
-        Відеонагляд Львів | Встановлення систем відеоспостереження і
-        сигналізації
+      value: Відеонагляд Львів | Встановлення систем відеоспостереження
       keyName: property
     - name: 'og:description'
       value: >-
