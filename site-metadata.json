@@ -71,7 +71,7 @@
                 ]
             }
         ],
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [],
         "content": "&copy; Safehouse.agency. All rights reserved."
     },
