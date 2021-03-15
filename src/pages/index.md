@@ -91,7 +91,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: 'Safe House - електромонтажна компанія, яка '
+      value: 'Відеонагляд Львів '
       keyName: property
     - name: 'og:description'
       value: >-
